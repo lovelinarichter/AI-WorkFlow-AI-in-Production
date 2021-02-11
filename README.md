@@ -20,7 +20,11 @@ https://numpy.org/install/ <br>
 https://scikit-learn.org/stable/install.html <br>
 
 To Run the codes:
-1. Copy the data to \data folder
+1. Copy the data provided to \data folder<br>
+Data can be found here: https://github.com/aavail/ai-workflow-capstone<br>
+\cs-train<br>
+\cs-production<br>
+
 2. Run the following commands in the project's root directory
 - python app.py
 - python model.py
